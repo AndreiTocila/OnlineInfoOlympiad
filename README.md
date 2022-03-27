@@ -15,6 +15,6 @@ Run:
 
 ![ ](screenshots/info.PNG)
 
-![ ](screenshots/after\ some \commands.PNG)
+![ ](screenshots/after some commands.PNG)
 
 ![ ](screenshots/end.PNG)
