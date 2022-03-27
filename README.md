@@ -11,4 +11,4 @@ Run:
 * Client: ```./client 127.0.0.1 3852```
 
 
-![ ](screenshots/start.png)
+![ ](screenshots/start.PNG)
