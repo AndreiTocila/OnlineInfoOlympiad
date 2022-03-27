@@ -1,0 +1,5 @@
+ProdNR
+
+Scriti un program care sa calculeze produsul a 2 numere naturale.
+
+Timp de lucru: 20 minute

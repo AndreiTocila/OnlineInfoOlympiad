@@ -1,0 +1,5 @@
+SumNr
+
+Scrieti un program care sa calculeze suma a 2 numere naturale.
+
+Timp alocat problemei: 20 minute

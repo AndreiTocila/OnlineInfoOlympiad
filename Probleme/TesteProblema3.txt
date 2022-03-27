@@ -1,0 +1,5 @@
+input: 4
+output: 105
+
+input: 10
+output: 654729075

@@ -1,0 +1,12 @@
+Nr participanti:2
+Nr probleme competitie:4
+Nr probleme disponibile:4
+Timp Problema 1:1
+Timp Problema 2:20
+Timp Problema 3:30
+Timp Problema 4:30
+
+
+
+
+

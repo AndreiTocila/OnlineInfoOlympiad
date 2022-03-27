@@ -1,0 +1,7 @@
+ProdImpare
+
+Se dă numărul natural nenul n. Să se determine produsul primelor n numere impare.
+
+Restrictii: n<=15
+
+Timp alocat: 30 minute

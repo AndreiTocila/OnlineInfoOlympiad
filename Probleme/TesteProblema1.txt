@@ -1,0 +1,5 @@
+input:37 7
+output: 44
+
+input: 1234 98
+output: 1332

@@ -1,0 +1,5 @@
+Count_c2
+
+Se dau n numere naturale. Calculați câte dintre ele au exact două cifre.
+
+Timp alocat: 30 minute

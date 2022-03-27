@@ -1,0 +1,7 @@
+input: 5
+       1000 20 3 41 576
+output: 2
+
+input: 3
+       123 435 1648
+output: 0
