@@ -7,5 +7,5 @@ Compile:
 * Client: ```gcc -pthread ./client.c -o client```
 
 Run:
-* Server: ./server
-* Client: ./client 127.0. 0.0 3852
+* Server: ```./server```
+* Client: ```./client 127.0.0.1 3852```
