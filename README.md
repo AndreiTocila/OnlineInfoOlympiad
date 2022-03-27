@@ -12,3 +12,9 @@ Run:
 
 
 ![ ](screenshots/start.PNG)
+
+![ ](screenshots/info.PNG)
+
+![ ](screenshots/after\ some \commands.PNG)
+
+![ ](screenshots/end.PNG)
